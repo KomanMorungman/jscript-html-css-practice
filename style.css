@@ -1,0 +1,49 @@
+li {
+    border: 3px solid black;
+    padding: 4px;
+    margin-top: 3px;
+    text-align: center;
+    width: 200px;
+    background-color: aquamarine;
+    height: 25px
+}
+
+h1 {
+    border: 3px solid black;
+    width: 400px;
+    margin-left: 30px;
+    border-radius: 20px;
+
+
+}
+
+h2 {
+    color: aqua;
+}
+
+.fr {
+    list-style: none;
+    display: none;
+
+}
+
+.fr.ad {
+    display: block;
+}
+
+button {
+    border: 3px solid black;
+    width: 500px;
+    margin-left: 40px;
+    border-radius: 30px;
+
+
+}
+
+.divn {
+    display: none;
+}
+
+.divn.but {
+    display: block;
+}
